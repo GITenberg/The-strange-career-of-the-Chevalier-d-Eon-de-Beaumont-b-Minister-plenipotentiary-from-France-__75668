@@ -1,0 +1,55 @@
+_repo: The-strange-career-of-the-Chevalier-d-Eon-de-Beaumont-b-Minister-plenipotentiary-from-France-__75668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Telfer, J. Buchan (John Buchan)
+    alias: Telfer, John Buchan
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '46931'
+    url: http://www.gutenberg.org/2009/agents/46931
+    wikipedia: https://en.wikipedia.org/wiki/John_Buchan_Telfer
+description: 'Reading ease score: 58.5 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf:
+- 'Browsing: Biographies'
+- 'Browsing: History - European'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75668'
+  lccn: '16018890'
+language: en
+pgterms:marc904: https://archive.org/download/b28987135
+pgterms:marc905: 20230719175502telfer
+pgterms:marc906: '1885'
+pgterms:marc907: GB
+production_note: Super Queer Historian and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bLongmans, Green, and Co., $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Foreign relations -- 1715-1774'
+- !lcsh 'Eon de Beaumont, Charles Geneviève Louis Auguste André Timothée d'', 1728-1810'
+- !lcc 'DC'
+- GITenberg
+summary: '"The Strange Career of the Chevalier D''Eon de Beaumont: Minister Plenipotentiary
+  from France to Great Britain in 1763" by Captain J. Buchan Telfer is a historical
+  account written in the late 19th century. The book explores the life of the Chevalier
+  D''Eon, a prominent figure in 18th-century France whose ambiguous gender identity
+  and roles as a diplomat and spy during intense political times create a fascinating
+  narrative. The main focus is on D''Eon''s unique career, including his secret correspondence
+  for Louis XV and significant interactions within European courts.  The opening of
+  the account provides a detailed preface about Louis XV''s secret correspondence
+  and reveals D''Eon''s early years, background, and training. Telfer sets the stage
+  by discussing D''Eon''s role as a secret agent for the King and foreshadows the
+  extraordinary life awaiting the Chevalier. The narrative portrays D''Eon as a complex
+  individual navigating a world that often constrained personal identity within rigid
+  societal norms while simultaneously serving as an influential player in the geopolitical
+  landscape of his time. (This is an automatically generated summary.)'
+title: 'The strange career of the Chevalier d''Eon de Beaumont : $b Minister plenipotentiary
+  from France to Great Britain in 1763'
+url: http://www.gutenberg.org/ebooks/75668
