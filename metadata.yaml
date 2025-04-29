@@ -1,5 +1,8 @@
 _repo: The-strange-career-of-the-Chevalier-d-Eon-de-Beaumont-b-Minister-plenipotentiary-from-France-__75668
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75668-h/images/cover.jpg
 creator:
   author:
     agent_name: Telfer, J. Buchan (John Buchan)
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/John_Buchan_Telfer
 description: 'Reading ease score: 58.5 (10th to 12th grade). Somewhat difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75668#The-strange-career-of-the-Chevalier-d-Eon-de-Beaumont-b-Minister-plenipotentiary-from-France-_
 gutenberg_bookshelf:
 - 'Browsing: Biographies'
 - 'Browsing: History - European'
